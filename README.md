@@ -1,3 +1,4 @@
+LIVE LINK - https://iplaiakinator123.infinityfreeapp.com/?i=1
 🏏 IPL AI Akinator
 
 An AI-powered interactive web application that intelligently guesses an IPL player by asking adaptive and probability-based questions — inspired by the popular Akinator game.
